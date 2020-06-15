@@ -1,0 +1,14 @@
+.navbar-brand{
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.navbar-collapse{
+font-size: 20px;
+font-family: sans-serif;
+}
+
+/*main*/
+.main{
+  margin: 20px 20px;
+}
